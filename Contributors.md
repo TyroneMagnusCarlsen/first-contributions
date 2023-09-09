@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 - [Ferhat Cekim](https://github.com/ferferx)
 - [Saurabh Padman](https://github.com/spirus-dev)
 - [Samuel Betancourt](https://github.com/Leumas80) <img title="Leumas80" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/ve.svg" width="22">
@@ -6,15 +6,20 @@
 - [piyush Dadgal](https://github.com/Piyush0618)
 - [Muhammed Mifthah](https://github.com/Mifthah99)
 KOR EU WEI
+- [Keannu Angelo Ramos](https://github.com/KeanCodex)
+- [Joel Gutlay](https://github.com/Livsn06)
+- [Allen James Alvaro](https://github.com/AllenJalvaro)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [Christopherson Carpio](https://github.com/tope0731)
 - [Arber Lisaj](https://github.com/arberlisaj)
 - [Alice Zandra Eya](https://github.com/AliceEya)
 - [John Virgil Carvajal](https://github.com/DarcMattz)
+- [Jaidie Lampa](https://github.com/jaidie-lampa)
 - [Emir Ertörer](https://github.com/EmirErtorer)
 - [Abdulhadi5692HDI2-3](https://github.com/Abdulhadi5692HDI2-3)
 - [Anirudh Duggal](https://github.com/AniswagMC)
 - [Itay Saban](https://github.com/itaysaban)
+- [janrix](https://github.com/rixsum)
 - [Anirudh SJ](https://github.com/ANIRUDH-SJ)
 - [nupoor kedare](https://github.com/nupoorkedare2002)
 - [Kushagra Anand](https://github.com/Kusha008)
@@ -45,6 +50,7 @@ KOR EU WEI
 - [Kalender Toptas](https://github.com/toptaskalender)
 - [SeungYong Kim](https://github.com/astrataraxia)
 - [Meynard Velaso](https://github.com/MVelasco21)
+- [Noreen Comesario](https://github.com/noreencomesario)
 - [Anand-Vardhan-Shekhar](https://github.com/anandvardhan09)
 - [Janela Tamayo](https://github.com/Jajanela)
 - [Suhas B G](https://github.com/SuhasBG)
@@ -60,6 +66,8 @@ KOR EU WEI
 - [Kathleen Sison](https://github.com/hellacee)
 - [Milton Wiklund](https://github.com/wiklunden)
 - [Ryan King Ballesteros](https://github.com/n4yr25)
+- [Bea Rizza Conag](https://github.com/beaconag)
+- [Camelajaen](https://github.com/Camelajaen)
 - [Ori Rose](https://github.com/oriodev)
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
@@ -71,11 +79,13 @@ KOR EU WEI
 - [Kimandu Ndung'u](https://github.com/DixonKimandu)
 - [Hernani Domingo](https://github.com/hernanidomingo)
 - [jdcantorna]
+- [Sreekumar Krishnan](https://github.com/SreekumarKrishnan)
 - [Nandhu Sathish] (https://github.com/NandhuSathish)
 - [Reign Cyril De Vera] (https://github.com/reign-cyril-de-vera)
 - [Sharanabasava] (https://github.com/Sharan-14)
 - [Sudesh Sachintha](https://github.com/Sachintha-dev)
 - [Judy Ann Flores](https://github.com/JudyAPF)
+- [Dessamine Almuete](https://github.com/dalmuete)
 - [Jyra Villanueva](https://github.com/Jyra-Villanueva)
 - [Lance Jericho Salcedo](https://github.com/jausalcedo)
 - [Madhur Aggarwal](https://github.com/MadhurAggarwal)
@@ -108,6 +118,7 @@ Mac McHam
 - [Vasco Ceti] (https://github.com/elperez365)
 - [Asiya](https://github.com/Asiyaa22)
 - psuuc-mvgo
+-egulbinado
 -psuuc-acbascos
 -psuuc-jbgarcia
 -psuuc-cvdrazo
@@ -116,10 +127,13 @@ Mac McHam
 - psuuc-nbcamatayan
 -psuuc-manaois
 -psuuc-fernandez
+-psuuc-jcsbayan
+- [psuuc-jepllamas]
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
 - [Carlos Guerrero] (https://github.com/carlosguealv)
+- [Steve Conteh] (https://github.com/steveconteh)
 - [Cindy Aspiras](https://github.com/cmfasp)
 - [aikoo7] (https://github.com/aikooo7)
 - [Zhiyuan](https://github.com/Zhiyuan-Jerry-Yang)
@@ -300,6 +314,7 @@ Mac McHam
 - [Rajeswari Kuppusamy](https://github.com/rajeswarikuppusamy18)
 - [Jordan Fortin](https://github.com/Hazey8709)
 - [Divyanshu Bansal](https://github.com/MistyDragon7)
+- [Sudhir Singh Shekhawat](https://github.com/sudhirsinghshekhawat)
 - FranciscoFB7
 - [EDEXADE](https://github.com/404)
 - [LIELB](https://github.com/lielbidago)
@@ -738,6 +753,7 @@ Mac McHam
 - [Febin Nelson P](https://github.com/fbn776)
 - [Manaam Rehan](https://github.com/manaam216)
 - [Musa Blackfrost](https://github.com/musagenius345)
+-[Marie Del Rosario](https://github.com/psuuc-mddelrosario)
 - [Satyam singh](https://github.com/jirayanaruto)
 - [Lior Haim](https://github.com/LiorHaimGit)
 - [Jacob Albert](https://github.com/jalbert90)
@@ -1905,6 +1921,7 @@ Akash Abraham
 - [Mathanraj T](https://github.com/mathanraj0601)
 - [JP Hu](https://github.com/hu260456)
 -[Farras El-Fahd](https://github.com/farraselfahd)
+-[Christian Mark Velbis](https://github.com/psuuc-cmvelbis)
 -[Vijay KV](https://github.com/Vijaykv5)
 - [Anurag]
 - [Brynn Andrew] (https://github.com/brynnandrew/)
@@ -1945,3 +1962,4 @@ Akash Abraham
 - [Abdourahmane Jalloh](https://github.com/aradradev)
 - [pipTyrannical](https://github.com/piptyrannical)
 
+- [Naufal Alief](https://github.com/naufalalief)
