@@ -117,6 +117,7 @@ Mac McHam
 -psuuc-manaois
 -psuuc-fernandez
 -TyroneB-tyrone
+-tyron-tanguilig
 - PSUUC-IGappe (https://github.com/MrNewtothis)
 - [Isabell Luo] (https://github.com/117Isabell)
 - [Noel Young] (git@github.com:noeljyoung)
